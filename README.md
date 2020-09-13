@@ -1,2 +1,1 @@
-# Tindog
-Basic initiative.
+TinDog Starting Files
